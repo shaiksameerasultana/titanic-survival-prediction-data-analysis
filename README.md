@@ -1,4 +1,4 @@
-## titanic-survival-prediction-data-analysis
+# **titanic-survival-prediction-data-analysis**
 # **Objective of the project**
 The goal of this project is to analyze the Titanic passenger dataset to:
 Understand passenger demographics
